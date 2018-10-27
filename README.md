@@ -1,2 +1,1 @@
-this is a test
-hello world
+这是一个测试仓库，单纯用于学习测试
